@@ -1,0 +1,1 @@
+target_sources(green PRIVATE lexer.cpp AST.cpp logging.cpp)
