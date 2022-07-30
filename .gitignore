@@ -146,3 +146,4 @@ environment_run.ps1.env
 environment_run.sh.env
 
 # End of https://www.toptal.com/developers/gitignore/api/clion+all,c++,conan
+build/
